@@ -1,0 +1,3 @@
+pip install psutil
+python -m pip install pymongo
+Git Repository Link : https://github.com/surendergupta/python_assignment_grade1
